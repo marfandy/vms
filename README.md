@@ -58,5 +58,5 @@ http://127.0.0.1:8000/docs/
 - username : admin
 - password : admin!@#
 
-<center>~Happy Code~</center>
+<p align="center">~Happy Code~</p>
 
